@@ -2,9 +2,9 @@
 
 ## Versions:
 
-stream-chat-react-native-core@3.8.3
-stream-chat-react-native@3.8.3
-stream-chat@~3.13.1
+* stream-chat-react-native-core@3.8.3
+* stream-chat-react-native@3.8.3
+* stream-chat@~3.13.1
 
 ## To run this app:
 
